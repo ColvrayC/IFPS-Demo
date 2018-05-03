@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ColvrayC/IPFS-Demo/issues"
   },
-  "homepage": "https://github.com/ColvrayC/IPFS-Demo#readme"
+  "homepage": "https://github.com/ColvrayC/IPFS-Demo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
